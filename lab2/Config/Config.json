@@ -1,0 +1,46 @@
+{
+    "GoWorkConfig": {
+        "Joy": 5,
+        "Alcohol": 30,
+        "Cash": 100,
+        "Fatigue": 70
+    },
+    "WalkConfig": {
+        "Joy": 1,
+        "Alcohol": 10,
+        "Fatigue": 10
+    },
+    "DrinkWineAndWatchTVConfig": {
+        "Joy": 1,
+        "Alcohol": 30,
+        "Fatigue": 10,
+        "Health": 5,
+        "Cash": 20
+    },
+    "GoBarConfig": {
+        "Joy": 1,
+        "Alcohol": 60,
+        "Fatigue": 40,
+        "Health": 10,
+        "Cash": 100
+    },
+    "DrinkVodkaTogetherConfig": {
+        "Joy": 5,
+        "Health": 80,
+        "Alcohol": 90,
+        "Fatigue": 80,
+        "Cash": 150
+    },
+    "SingSongConfig": {
+        "Joy": 1,
+        "Mana": 20,
+        "Cash": 10,
+        "Fatigue": 20
+    },
+    "SleepConfig": {
+        "Health": 90,
+        "Joy": 3,
+        "Alcohol": 50,
+        "Fatigue": 70
+    }
+}
